@@ -1,0 +1,19 @@
+Data: 11/6/2022
+
+0 - felipe - 456
+1 - julio - 789
+Data: 11/6/2022
+
+0 - ricardo - 789
+1 - felipe - 456
+2 - julio - 123
+Data: 11/6/2022
+
+0 - querida - 456
+
+Data: 11/6/2022
+
+0 - gustavo - 7895462
+
+Data: 11/6/2022
+0 - bahia - 7854623
